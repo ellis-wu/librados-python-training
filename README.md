@@ -1,0 +1,1 @@
+# librados python training
